@@ -1,1 +1,4 @@
-# Rust Exercises on Exercism
+# Solved Exercises on Exercism
+
+- Rust
+- Dart
